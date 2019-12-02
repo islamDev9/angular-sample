@@ -1,0 +1,20 @@
+.card-title {
+    font-size: 22px;
+    color: lightslategrey;
+}
+.comments-list h2 {font-size: 18px;}
+.comments-list li {
+    padding: 10px 15px;
+    background: #fcf7f7;
+    border-radius: 4px;
+}
+h4.name {
+    font-size: 14px;
+}
+span.email {
+    font-size: 12px;
+    color: #a7a7a7;
+}
+p.comment {
+    font-size: 14px;
+}
